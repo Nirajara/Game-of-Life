@@ -12,7 +12,7 @@ Go to the project's directory and run the following commands:
 
 `javac GameOfLife.java`
 
-`java GameOfLife.java`
+`java GameOfLife`
 
 If the commands aren't working, it might be because you need the JDK package or it is not properly set up. 
 
